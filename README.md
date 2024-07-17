@@ -4,7 +4,7 @@ ATM Simulator System
 The primary aim of this “Bank Account Management System” is to provide an improved design methodology.
 
 Anybody who is an Account holder in this bank can become a member of Bank Account Management System. 
-He has to fill a form with his personal details and Account Number.Here, customers can deposit and withdraw their money.
+The person has to fill a form with his personal details and Account Number.Here, customers can deposit and withdraw their money.
 Used TechStack :
 Languages : Java(AWT & Swing)
 Databases: MySQL- for storing customers information, transaction information, and many more.
